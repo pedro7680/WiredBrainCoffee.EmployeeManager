@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WiredBrainCoffee.EmployeeManager
 build_property.RootNamespace = WiredBrainCoffee.EmployeeManager
-build_property.ProjectDir = C:\Users\peter\source\repos\pedro7680\WiredBrainCoffee.EmployeeManager\WiredBrainCoffee.EmployeeManager\
+build_property.ProjectDir = C:\Users\peter\Source\Repos\pedro7680\WiredBrainCoffee.EmployeeManager\WiredBrainCoffee.EmployeeManager\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\peter\source\repos\pedro7680\WiredBrainCoffee.EmployeeManager\WiredBrainCoffee.EmployeeManager
+build_property.MSBuildProjectDirectory = C:\Users\peter\Source\Repos\pedro7680\WiredBrainCoffee.EmployeeManager\WiredBrainCoffee.EmployeeManager
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/App.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/About.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/AddEmployee.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/About2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/AddEmployee.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1wbG95ZWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/EditEmployee.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/EditEmployee.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEVtcGxveWVlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/EmployeeOverview.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/EmployeeOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/Index.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/RAbout2.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkFib3V0Mi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Shared/EmployeeForm.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Shared/EmployeeForm.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcGxveWVlRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/_Imports.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Shared/MainLayout.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-m04gkrueb5
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Shared/NavMenu.razor]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-q32fzyn4pj
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/Error.cshtml]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/_Host.cshtml]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/peter/Source/Repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/_Layout.cshtml]
+[C:/Users/peter/source/repos/pedro7680/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

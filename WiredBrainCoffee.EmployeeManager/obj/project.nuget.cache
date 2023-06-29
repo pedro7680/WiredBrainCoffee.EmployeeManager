@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3YYVhD4+dMaJ4FlNts1zh7hXYfxGBjs2IbgsrMA4lAt/DIZ7lOwcckKKxM/N0Msch0LQULBvAkujPtA/dmHKw==",
+  "dgSpecHash": "2vOaJ8O3QmUgjY0W0jgxUWVx1PCn8uORhufkzZ0EQkt1VMBUgxLn4NmlZy3wXYhmAzz+dhhxJ5FG8LpWXoHQ/Q==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Pluralsight\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
+  "projectFilePath": "C:\\Users\\peter\\Source\\Repos\\pedro7680\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

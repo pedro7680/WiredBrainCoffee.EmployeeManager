@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Pluralsight\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj": {}
+    "C:\\Users\\peter\\Source\\Repos\\pedro7680\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Pluralsight\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj": {
+    "C:\\Users\\peter\\Source\\Repos\\pedro7680\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Pluralsight\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
+        "projectUniqueName": "C:\\Users\\peter\\Source\\Repos\\pedro7680\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
         "projectName": "WiredBrainCoffee.EmployeeManager",
-        "projectPath": "C:\\Code\\Pluralsight\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
+        "projectPath": "C:\\Users\\peter\\Source\\Repos\\pedro7680\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Pluralsight\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\obj\\",
+        "outputPath": "C:\\Users\\peter\\Source\\Repos\\pedro7680\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
